@@ -1,0 +1,20 @@
+# Ignorar arquivos compilados
+bin/
+obj/
+
+# Ignorar arquivos de configuração
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos temporários
+[Tt]emp/
+[Vv]isual[Ss]tudio[Ss]tate/
+
+# Ignorar arquivos de log e crash dumps
+*.log
+*.vscode-crash.txt
+
+# Ignorar diretório específico para configuração local
+.vscode/
+
