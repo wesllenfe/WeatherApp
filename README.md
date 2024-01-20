@@ -1,5 +1,7 @@
 # WeatherApp
 
+<<<<<<< HEAD
+
 Um aplicativo de console simples para obter informações climáticas usando a OpenWeatherMap API.
 
 ## Configuração
@@ -24,3 +26,8 @@ setx OPEN_WEATHER_API_KEY "sua_chave_de_api"
 ```No Terminal
 dotnet run
 ```
+
+=======
+Um aplicativo de console simples para obter informações climáticas usando a OpenWeatherMap API.
+
+> > > > > > > 93010fb1dca0fb6a2352ce6b0c38e92aba2ef830
